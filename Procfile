@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT pilarfcoutlookcom_pil_667.wsgi:application
